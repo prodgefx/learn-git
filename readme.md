@@ -1,4 +1,4 @@
-#Learn about git a(nd github
+#Learn about git and github
 
 subscribe to me on youtube
 
